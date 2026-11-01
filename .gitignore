@@ -1,0 +1,10 @@
+# SQLite database files
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Node dependencies
+node_modules/
+
+# Environment secrets
+.env
